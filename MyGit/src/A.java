@@ -5,5 +5,7 @@ public class A {
 		System.out.println("Change A Class");
 		System.out.println("-devB-");
 
+		System.out.println("A Class");
+		System.out.println("-devC-");
 	}
 }
